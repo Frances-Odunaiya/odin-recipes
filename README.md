@@ -1,1 +1,1 @@
-This is a new project called Odin Recipes. There will be lots oh HTML files and Css files will be called as a link to beautify my first ever webpage. At the end of this project, i would have demonstrated my HTML and CSS Skills as the projects demands.
+This is a new project called Odin Recipes. There will be lots of HTML files and Css files will be called in to beautify each page. At the end of this project, i hope to have demonstrated my HTML and CSS Skills as the projects demands.
